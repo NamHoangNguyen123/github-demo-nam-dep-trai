@@ -1,0 +1,1 @@
+print("Ban thay minh dep trai chu")
